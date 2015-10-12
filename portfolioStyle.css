@@ -2,6 +2,11 @@ body {
  background-color: white;
 }
 
+p {
+ font-family:"Comic Sans MS", cursive, sans-serif;
+}
+
 .rightAlign {
  text-align: right;
 }
+
