@@ -12,7 +12,7 @@ table.container{
  clear: left; 
 }
 
-table.border{
+td.border{
  border-bottom-style:solid;
  border-bottom-width:medium;
 }
