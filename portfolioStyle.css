@@ -13,7 +13,5 @@ table.container{
 }
 
 #borderRow {
- border-bottom-style:solid;
- border-bottom-width:medium
- border-bottom-color: Black;
+border: 1px solid Black;
 }
