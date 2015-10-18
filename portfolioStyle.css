@@ -6,6 +6,11 @@ p {
  font-family:"Comic Sans MS", cursive, sans-serif;
 }
 
+div.container{
+ width: 100%;
+ margin: 0 px;
+ clear: right; 
+}
 .rightFloat {
  float: right;
 }
