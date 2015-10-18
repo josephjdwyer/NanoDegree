@@ -10,6 +10,10 @@ p {
  float: right;
 }
 
+.leftFloat {
+ float: left;
+}
+
 .displayInline {
  display: inline;
 }
