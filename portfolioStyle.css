@@ -13,21 +13,23 @@ div.container{
 }
 
 div.leftColumn {
- width: 100px;
+ width: 30%;
  margin: 0px; 
  padding: 1em;
  float: left;
 }
 
 div.rightColumn{
- width: 200px;
+ width: 70%;
  margin: 0px;
  padding: 1em;
  float:right;
 }
 
 div.centerColumn{
- width: 50&;
  margin:0 auto;
  padding: 1em;
+ border-bottom: medium solid initial; 
+ clear:both;
+ 
 }
