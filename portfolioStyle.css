@@ -11,3 +11,8 @@ table.container{
  margin: 0 px;
  clear: left; 
 }
+
+table.border{
+ border-bottom-style:solid;
+ border-bottom-width:medium;
+}
