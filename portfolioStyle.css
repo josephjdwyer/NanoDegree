@@ -11,18 +11,10 @@ div.container{
  margin: 0 px;
  clear: right; 
 }
-.rightFloat {
- float: right;
-}
 
-.leftFloat {
+div.leftColumn {
+ width: 100px;
+ margin: 0px; 
+ padding: 1em;
  float: left;
-}
-
-.displayInline {
- display: inline;
-}
-
-.clearBoth {
- clear: both;
 }
