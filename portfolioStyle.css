@@ -25,11 +25,3 @@ div.rightColumn{
  padding: 1em;
  float:right;
 }
-
-div.centerColumn{
- margin:0 auto;
- padding: 1em;
- border-bottom: medium solid initial; 
- clear:both;
- 
-}
