@@ -4,10 +4,14 @@ table.container{
  clear: left; 
 }
 
-#borderRow {
+#borderPart1 {
 border: 1px solid Black;
 }
 
-#borderPart1 {
+#borderPart2 {
+border: 1px solid Black;
+}
+
+#borderPart3 {
 border: 1px solid Black;
 }
