@@ -18,3 +18,10 @@ div.leftColumn {
  padding: 1em;
  float: left;
 }
+
+div.rightColumn{
+ width: 200px;
+ margin: 0px;
+ padding: 1em;
+ float:right;
+}
