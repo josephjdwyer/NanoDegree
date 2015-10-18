@@ -14,5 +14,6 @@ table.container{
 
 #borderRow {
  border-bottom-style:solid;
- border-bottom-width:medium;
+ border-bottom-width:medium
+ border-bottom-color: Black;
 }
