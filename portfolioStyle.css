@@ -17,3 +17,7 @@ p {
 .displayInline {
  display: inline;
 }
+
+.clearBoth {
+ clear: both;
+}
