@@ -6,22 +6,8 @@ p {
  font-family:"Comic Sans MS", cursive, sans-serif;
 }
 
-div.container{
+table.container{
  width: 100%;
  margin: 0 px;
- clear: right; 
-}
-
-div.leftColumn {
- width: 30%;
- margin: 0px; 
- padding: 1em;
- float: left;
-}
-
-div.rightColumn{
- width: 70%;
- margin: 0px;
- padding: 1em;
- float:right;
+ clear: left; 
 }
